@@ -1,0 +1,1 @@
+The device manager is the portion of the operating system that interfaces with hardware devices. These devices can range from a monitor to an external hard drive. This also includes the computer's hard disks.
